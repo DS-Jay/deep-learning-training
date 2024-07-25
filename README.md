@@ -29,7 +29,3 @@ This course aims to provide a solid foundation in deep learning theory and pract
 
 
 Each section includes theory, code examples, and practical exercises in TensorFlow, PyTorch, and JAX.
-
-## Getting Started
-
-Each section contains detailed explanations and Jupyter notebooks for hands-on practice. Follow the links to dive into each topic.
