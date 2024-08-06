@@ -14,7 +14,7 @@ This course aims to provide a solid foundation in deep learning theory and pract
 3. [Fundamental Concepts Formulas](02_fundamental-concepts/formulas.md)
    - [Deep Learning Structure](02_fundamental-concepts/01_fundamental_concepts_dl.md)
 4. [Deep Learning Frameworks](03_deep-learning-frameworks/)
-   - [Framework Overviw](03_deep-learning-frameworks/01_framework_overview.md)
+   - [Framework Overview](03_deep-learning-frameworks/01_framework_overview.md)
    - [Industries & Experience](03_deep-learning-frameworks/02_framework_industry_experience.md)
    - [Framework Code Structure](03_deep-learning-frameworks/03_framework_code_structure.md)
    - [TensorFlow](03_deep-learning-frameworks/04_tensorflow_fundamental_concepts.md)
